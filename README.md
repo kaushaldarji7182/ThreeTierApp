@@ -1,13 +1,9 @@
-# #TWSThreeTierAppChallenge
-
-## Overview
-This repository hosts the `#TWSThreeTierAppChallenge` for the TWS community. 
-The challenge involves deploying a Three-Tier Web Application using ReactJS, NodeJS, and MongoDB, with deployment on AWS EKS. Participants are encouraged to deploy the application, add creative enhancements, and submit a Pull Request (PR). Merged PRs will earn exciting prizes!
+# #Three Tier App
 ## Prerequisites
 - Basic knowledge of Docker, and AWS services.
 - An AWS account with necessary permissions.
 
-## Challenge Steps
+## Building Steps
 - [Application Code](#application-code)
 - [Jenkins Pipeline Code](#jenkins-pipeline-code)
 - [Jenkins Server Terraform](#jenkins-server-terraform)
